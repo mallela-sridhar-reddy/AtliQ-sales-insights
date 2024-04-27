@@ -1,4 +1,4 @@
-[Link to Dashboard](https://www.novypro.com/project/atliq-hardware-sales-insights-1)
+[Link to Dashboard](https://app.powerbi.com/groups/65d4a5c0-7071-48f8-8c93-157d94fe428f/reports/a2345a80-70c4-4824-a10d-37b63e287546/ReportSection9c9565fb8303820b0335?experience=power-bi)
 
 
 # AtliQ-Sales-Insights
