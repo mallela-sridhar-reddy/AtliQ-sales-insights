@@ -7,6 +7,26 @@ AtliQ Hardware
 - Is a company which supplies computer hardware and peripherals to many clients across India;
 - The company has a head office in Delhi and regional offices throughout India.
 
+# Why sales insights
+
+Sales analysis is essential for several reasons:
+
+1. **Performance Evaluation**: It helps evaluate the performance of your sales team or individual salespeople. By analyzing sales data, you can identify top performers, areas for improvement, and training needs.
+
+2. **Identifying Trends**: Sales analysis helps in identifying trends in customer behavior, such as seasonal fluctuations, product preferences, or geographic patterns. Understanding these trends can inform marketing strategies, inventory management, and product development.
+
+3. **Forecasting**: By analyzing past sales data, you can make more accurate forecasts for future sales. This is crucial for inventory management, production planning, and budgeting.
+
+4. **Optimizing Pricing Strategies**: Sales analysis can reveal insights into the effectiveness of different pricing strategies. By analyzing sales data alongside pricing information, you can determine the optimal price points for your products or services.
+
+5. **Customer Insights**: Analyzing sales data allows you to gain insights into your customers' preferences, demographics, and purchasing behavior. This information can be used to tailor marketing messages, improve customer service, and develop targeted promotional campaigns.
+
+6. **Identifying Opportunities**: Sales analysis can uncover opportunities for growth, such as new market segments, untapped geographical areas, or potential partnerships with other businesses.
+
+7. **Cost Management**: By analyzing sales data alongside cost data, you can assess the profitability of different products, sales channels, or customer segments. This information is valuable for optimizing resource allocation and improving overall profitability.
+
+In summary, sales analysis is crucial for optimizing sales performance, understanding customer behavior, making informed business decisions, and driving overall business growth.
+
 Business Issue
 The market is growing dynamically and the sales director is finding it difficult to track the sales, needing more accurate insights about the company sales, and then take the necessary decisions.
 
