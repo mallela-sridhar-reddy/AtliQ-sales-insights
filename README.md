@@ -54,6 +54,6 @@ and transactions.market_code="Mark001";`
 # Report
 
 # Home
-
+![Screenshot 2024-04-27 173315](https://github.com/mallela-sridhar-reddy/AtliQ-sales-insights/assets/115725595/59545f0f-be42-497b-9cda-82e1e22145b8)
 
 
