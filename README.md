@@ -5,11 +5,10 @@
 
 AtliQ Hardware
 - Is a company which supplies computer hardware and peripherals to many clients across India;
-- The company has a head office in Dehli and regional offices throughout India.
+- The company has a head office in Delhi and regional offices throughout India.
 
 Business Issue
-The sales director is facing a lot of challenges such as:
-The marketing is growing dynamically and then he’s struggling in terms of tracking the sales, needing more accurate insights about the company sales, and then take the necessary decisions.
+The market is growing dynamically and the sales director is finding it difficult to track the sales, needing more accurate insights about the company sales, and then take the necessary decisions.
 
 I used SQL queries in MySQL Workbench to take a look into the data and Power BI for ETL and visualizations to create the insights.
 
@@ -52,7 +51,9 @@ Show total revenue in year 2020, January Month,
 and transactions.market_code="Mark001";`
 
 
-![Screenshot (53)](https://github.com/ridhi0228/AtliQ-Sales-Insights/assets/132190698/6694fc95-85a1-4c93-b70a-a0e945292120)
+# Report
+
+# Home
 
 
 
