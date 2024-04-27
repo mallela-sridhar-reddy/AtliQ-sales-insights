@@ -27,7 +27,8 @@ Sales analysis is essential for several reasons:
 
 In summary, sales analysis is crucial for optimizing sales performance, understanding customer behavior, making informed business decisions, and driving overall business growth.
 
-Business Issue
+# Business Issue
+
 The market is growing dynamically and the sales director is finding it difficult to track the sales, needing more accurate insights about the company sales, and then take the necessary decisions.
 
 I used SQL queries in MySQL Workbench to take a look into the data and Power BI for ETL and visualizations to create the insights.
