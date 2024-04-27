@@ -60,5 +60,9 @@ and transactions.market_code="Mark001";`
 ![Screenshot 2024-04-27 173331](https://github.com/mallela-sridhar-reddy/AtliQ-sales-insights/assets/115725595/facdfbcc-2dff-4e67-a0ce-ecd8fa859b1e)
 
 
-
+# Profit View
 ![Screenshot 2024-04-27 173414](https://github.com/mallela-sridhar-reddy/AtliQ-sales-insights/assets/115725595/25aa85a6-1649-431b-89c3-7b09890551ac)
+
+
+# Performance Insights
+![Screenshot 2024-04-27 173436](https://github.com/mallela-sridhar-reddy/AtliQ-sales-insights/assets/115725595/23ddd661-c36a-4a21-acdc-ce9d614f350f)
