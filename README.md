@@ -4,7 +4,7 @@
 # AtliQ-Sales-Insights
 
 AtliQ Hardware
-- Is a company which supplies computer hardware and peripherals to many clients across India;
+- Is a company which supplies computer hardware and peripherals to many clients across India.
 - The company has a head office in Delhi and regional offices throughout India.
 
 # Why sales insights
