@@ -1,4 +1,4 @@
-[Link to Dashboard](https://app.powerbi.com/groups/65d4a5c0-7071-48f8-8c93-157d94fe428f/reports/a2345a80-70c4-4824-a10d-37b63e287546/ReportSection9c9565fb8303820b0335?experience=power-bi)
+[Link to Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2Y3NjVhNDEtZmU2ZC00ZTY1LWFmMDUtN2Q3OWY2Mzg5Y2MxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 # AtliQ-Sales-Insights
